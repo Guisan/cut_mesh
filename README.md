@@ -34,7 +34,7 @@ Useage:
     -Move the invalid points, add or delete poitns untial total outline is green
     
 6.  Select the part of mesh to be removed
-    -'S' and the LeftClick inside or outside of the loop.  Yellow points will appear where the click was placed.
+    -'S' and the LeftClick inside or outside of the loop.  Yellow points will appear where the click was placed. 
     
 7.  'D' to calculate the intermediate step behind the scenes
 
